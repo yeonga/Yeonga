@@ -1,18 +1,12 @@
 Welcome to Aria's GitHub
 
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonga&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 
 🗣 Languages
 🇰🇷 : Korean 🇨🇦 : English 🇹🇷 : Turkish 🇫🇷 : French
 
-
 💻 Programming Languages
-![JAVA](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=Java&logoColor=wjite&color=CD1039) ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=plastic&logo=JavaScript&logoColor=default&color=red)![HTML5](https://img.shields.io/badge/HTML5-007396?style=plastic&logo=HTML5&logoColor=default&color=FFA500)
-
+![JAVA](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=Java&logoColor=wjite&color=CD1039) ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=plastic&logo=JavaScript&logoColor=default&color=red) ![HTML5](https://img.shields.io/badge/HTML5-007396?style=plastic&logo=HTML5&logoColor=default&color=FFA500)
 
 👧🏻 Introduce myself
 Hello, My Korean name is Yeong-A and English name is Aria. 
@@ -20,8 +14,6 @@ You can call me whatever you want. I am a developer working at Intel
 
 My major is International Development📚, and I doubled major in Department of Food Serivce Industry
 I have been studying computer science💻 since 2018. I have project experience using Python(My most confident language), Java & Android, c++, and Matlab languages. I am very interested in machine learning. I am especially interested in computer vision.
-
-
 
 🚴🏻‍♀️   🛣  My Path
 |  👩🏻‍🎓 Type | Date | Contents | Organization |
