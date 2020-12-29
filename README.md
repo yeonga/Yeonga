@@ -24,6 +24,10 @@
 
 </br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📪  Please contact me if you have any questions.  &nbsp;&nbsp;   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yeongaria@gmail.com)](mailto:yeongaria@gmail.com)
+
+</br>
+
 🚴🏻‍♀️   🛣  **My Path**  |  👩🏻‍🎓
 
 Type | Date | Contents | Organization |
