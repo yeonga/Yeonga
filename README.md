@@ -4,9 +4,13 @@
 🗣 Languages </br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🇰🇷 : Korean 🇨🇦 : English 🇹🇷 : Turkish 🇫🇷 : French
 
+</br>
+
 💻 Programming Languages
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![JAVA](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=Java&logoColor=wjite&color=CD1039) ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=plastic&logo=JavaScript&logoColor=default&color=red) ![HTML5](https://img.shields.io/badge/HTML5-007396?style=plastic&logo=HTML5&logoColor=default&color=FFA500)
+
+</br>
 
 👧🏻 Introduce myself
 
