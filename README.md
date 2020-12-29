@@ -21,15 +21,13 @@ Welcome to Aria's GitHub
 <span></span>
 👧🏻 Introduce myself
 
+<ul>
+<li>Hello, My Korean name is Yeong-A and English name is Aria. 
+You can call me whatever you want. I am a developer working at Intel</li>
 
-<ul>Hello, My Korean name is Yeong-A and English name is Aria. 
-You can call me whatever you want. I am a developer working at Intel</ul>
-
-
-<span></span>
-<span></span>
-<ul>My major is International Development📚, and I doubled major in Department of Food Serivce Industry
-I have been studying computer science💻 since 2018. I have project experience using Python(My most confident language), Java & Android, c++, and Matlab languages. I am very interested in machine learning. I am especially interested in computer vision.</ul>
+<li>My major is International Development📚, and I doubled major in Department of Food Serivce Industry
+I have been studying computer science💻 since 2020. I have project experience using Java. I am very interested in machine learning. I am especially interested in computer vision.</li>
+</ul>
 
 
 <span></span>
