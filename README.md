@@ -1,9 +1,9 @@
 Welcome to Aria's GitHub
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonga&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div>🗣 Languages
-<span>🇰🇷 : Korean 🇨🇦 : English 🇹🇷 : Turkish 🇫🇷 : French<span>
-</div>
+🗣 Languages
+<ul>🇰🇷 : Korean 🇨🇦 : English 🇹🇷 : Turkish 🇫🇷 : French</ul>
+
 
 💻 Programming Languages
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=Java&logoColor=wjite&color=CD1039) ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=plastic&logo=JavaScript&logoColor=default&color=red)![HTML5](https://img.shields.io/badge/HTML5-007396?style=plastic&logo=HTML5&logoColor=default&color=FFA500)
