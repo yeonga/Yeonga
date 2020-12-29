@@ -20,7 +20,7 @@
 
 <ul> After completing a B.A. degree from Yeungnam University, I enrolled in International Development program. Also, I doubled major in Food Service Industry program.</ul>
 <ul> Even though my major wasn't Computer Engineering, I am interested in programming very much. So, I studied computer programming in Korea Software Industry Association.</ul>
-<ul> The program highlights included these topics: Java, JS, SQL, JSP, ajax, Spring Framwork, jQuery, Bootstrap4. I have a project experience using these languages, tools, framework.</ul>
+<ul> The program highlights included these topics: Java, JS, SQL, JSP, ajax, Spring Framwork, jQuery, Bootstrap4. I have a project experience using these languages, tools, framework. I am going to study Programming harder. I will do it my best. 😎👍🏻 </ul>
 
 </br>
 
