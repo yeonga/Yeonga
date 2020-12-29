@@ -7,14 +7,16 @@
 
 <ul>🇰🇷 : Korean 🇨🇦 : English 🇹🇷 : Turkish 🇫🇷 : French</ul>
 
-
+<span></span>
 <span></span>
 💻 Programming Languages
 
 
-![JAVA](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=Java&logoColor=wjite&color=CD1039) ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=plastic&logo=JavaScript&logoColor=default&color=red) ![HTML5](https://img.shields.io/badge/HTML5-007396?style=plastic&logo=HTML5&logoColor=default&color=FFA500)
+<span></span>
+        ![JAVA](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=Java&logoColor=wjite&color=CD1039) ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=plastic&logo=JavaScript&logoColor=default&color=red) ![HTML5](https://img.shields.io/badge/HTML5-007396?style=plastic&logo=HTML5&logoColor=default&color=FFA500)
 
 
+<span></span>
 <span></span>
 👧🏻 Introduce myself
 
@@ -22,16 +24,19 @@
 <ul>Hello, My Korean name is Yeong-A and English name is Aria. 
 You can call me whatever you want. I am a developer working at Intel</ul>
 
-<span></span>
 
+<span></span>
+<span></span>
 <ul>My major is International Development📚, and I doubled major in Department of Food Serivce Industry
 I have been studying computer science💻 since 2018. I have project experience using Python(My most confident language), Java & Android, c++, and Matlab languages. I am very interested in machine learning. I am especially interested in computer vision.</ul>
 
 
 <span></span>
+<span></span>
 🚴🏻‍♀️   🛣  My Path  |  👩🏻‍🎓
 
 
+<span></span>
 Type | Date | Contents | Organization |
 |---|---|---|---|
 | Software Education | Sep, 2020 ~ Dec | Java Development Education | Korea Software Industry Association|
