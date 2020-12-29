@@ -24,7 +24,7 @@ I have been studying computer science💻 since 2018. I have project experience 
 <div></div>
 
 
-<h5>🚴🏻‍♀️   🛣  My Path </h5>
+🚴🏻‍♀️   🛣  My Path
 |  👩🏻‍🎓 Type | Date | Contents | Organization |
 |---|---|---|---|
 | Software Education | Sep, 2020 ~ Dec | Java Development Education | Korea Software Industry Association|
