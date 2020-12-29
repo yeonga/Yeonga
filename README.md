@@ -2,11 +2,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonga&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 🗣 Languages </br>
-&nbsp;&nbsp; 🇰🇷 : Korean 🇨🇦 : English 🇹🇷 : Turkish 🇫🇷 : French
+&nbsp;&nbsp;&nbsp;&nbsp; 🇰🇷 : Korean 🇨🇦 : English 🇹🇷 : Turkish 🇫🇷 : French
 
 💻 Programming Languages
 
-&nbsp;&nbsp; ![JAVA](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=Java&logoColor=wjite&color=CD1039) ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=plastic&logo=JavaScript&logoColor=default&color=red) ![HTML5](https://img.shields.io/badge/HTML5-007396?style=plastic&logo=HTML5&logoColor=default&color=FFA500)
+&nbsp;&nbsp;&nbsp;&nbsp; ![JAVA](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=Java&logoColor=wjite&color=CD1039) ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=plastic&logo=JavaScript&logoColor=default&color=red) ![HTML5](https://img.shields.io/badge/HTML5-007396?style=plastic&logo=HTML5&logoColor=default&color=FFA500)
 
 👧🏻 Introduce myself
 
@@ -17,7 +17,6 @@ You can call me whatever you want. I am a developer working at Intel</ul>
 <ul>My major is International Development📚, and I doubled major in Department of Food Serivce Industry
 I have been studying computer science💻 since 2020. I have project experience using Java. I am very interested in machine learning. I am especially interested in computer vision.</ul>
 
-</br>
 </br>
 
 🚴🏻‍♀️   🛣  My Path  |  👩🏻‍🎓
