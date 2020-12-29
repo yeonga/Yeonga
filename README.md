@@ -5,7 +5,8 @@
 🗣 Languages
 
 
-🇰🇷 : Korean 🇨🇦 : English 🇹🇷 : Turkish 🇫🇷 : French
+<ul>🇰🇷 : Korean 🇨🇦 : English 🇹🇷 : Turkish 🇫🇷 : French</ul>
+
 
 
 
