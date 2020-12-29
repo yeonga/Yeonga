@@ -14,11 +14,13 @@
 
 👧🏻 **Introduce myself**
 
-<ul>Hello, My Korean name is Yeong-A and English name is Aria. You can call me whatever you want. 
-I have a desire to be the best Web Developer. 👩🏻‍💻✨</ul>
+<ul>Hello, My Korean name is Yeong-A and English name is Aria. You can call me whatever you want.</ul>
+<ul>I have a desire to be the best Web Developer. 👩🏻‍💻✨</ul>
 </br>
 
-<ul>After completing a B.A. degree from Yeungnam University, I enrolled in International Development program. Also, I doubled major in Food Service Industry program. Even though my major wasn't Computer Engineering, I am interested in programming very much. So, I studied computer programming in Korea Software Industry Association. The program highlights included these topics: Java, JS, SQL, JSP, ajax, Spring Framwork, jQuery, Bootstrap4. I have a project experience using these languages, tools, framework.</ul>
+<ul> After completing a B.A. degree from Yeungnam University, I enrolled in International Development program. Also, I doubled major in Food Service Industry program.</ul>
+<ul> Even though my major wasn't Computer Engineering, I am interested in programming very much. So, I studied computer programming in Korea Software Industry Association.</ul>
+<ul> The program highlights included these topics: Java, JS, SQL, JSP, ajax, Spring Framwork, jQuery, Bootstrap4. I have a project experience using these languages, tools, framework.</ul>
 
 </br>
 
@@ -31,6 +33,6 @@ Type | Date | Contents | Organization |
 | Language Education | Jul, 2018 ~ Aug | Gaduation Level of English Classes : Advanced | HANSA Language Centre in Toronto, Canada|
 | Language Education | Jul, 2017 ~ Jan, 2018 | Gaduation Level of English Classes : Intermediate High | ILSC Language School in toronto, Canada |
 
-
+</br>
 
 ![Yeonga's github stats](https://github-readme-stats.vercel.app/api?username=yeonga&show_icons=true&theme=nightowl)
