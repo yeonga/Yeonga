@@ -39,4 +39,4 @@ Type | Date | Contents | Organization |
 
 </br>
 
-![Yeonga's github stats](https://github-readme-stats.vercel.app/api?username=yeonga&show_icons=true&theme=nightowl)
+![Yeonga's github status](https://github-readme-stats.vercel.app/api?username=yeonga&show_icons=true&theme=nightowl)
