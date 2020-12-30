@@ -35,7 +35,7 @@ Type | Date | Contents | Organization |
 | Software Education | Sep, 2020 ~ Dec | Java Development Education | Korea Software Industry Association|
 | Bachelor Degree | Mar, 2014 ~ Aug, 2019 | International Development & Department of Food Service Industry  | Yeungnam University |
 | Language Education | Jul, 2018 ~ Aug | Gaduation Level of English Classes : Advanced | HANSA Language Centre in Toronto, Canada|
-| Language Education | Jul, 2017 ~ Jan, 2018 | Gaduation Level of English Classes : Intermediate High | ILSC Language School in toronto, Canada |
+| Language Education | Jul, 2017 ~ Jan, 2018 | Gaduation Level of English Classes : Intermediate High | ILSC Language School in Toronto, Canada |
 
 </br>
 
