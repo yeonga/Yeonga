@@ -6,7 +6,7 @@
 
 </br>
 
-💻 **Programming Languages**
+💻 **Programming Languages & Skills **
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![JAVA](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=Java&logoColor=wjite&color=CD1039) ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=plastic&logo=JavaScript&logoColor=default&color=red) ![HTML5](https://img.shields.io/badge/HTML5-007396?style=plastic&logo=HTML5&logoColor=default&color=FF8200) ![CSS3](https://img.shields.io/badge/CSS3-007396?style=plastic&logo=css3&logoColor=&color=0064CD) ![SQL](https://img.shields.io/badge/SQL-007396?style=plastic&logo=Mysql&logoColor=00008C&color=288CFF)
 
