@@ -9,6 +9,7 @@
 💻 **Programming Languages & Skills **
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![JAVA](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=Java&logoColor=wjite&color=CD1039) ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=plastic&logo=JavaScript&logoColor=default&color=red) ![HTML5](https://img.shields.io/badge/HTML5-007396?style=plastic&logo=HTML5&logoColor=default&color=FF8200) ![CSS3](https://img.shields.io/badge/CSS3-007396?style=plastic&logo=css3&logoColor=&color=0064CD) ![SQL](https://img.shields.io/badge/SQL-007396?style=plastic&logo=Mysql&logoColor=00008C&color=288CFF)
+![JPA](https://img.shields.io/badge/JPA-00000?style=plastic&logo=JPA&logoColor=white)
 
 </br>
 
@@ -20,7 +21,7 @@
 
 <ul> After completing a B.A. degree from Yeungnam University, I enrolled in International Development program. Also, I doubled major in Food Service Industry program.</ul>
 <ul> Even though my major wasn't Computer Engineering, I am interested in programming very much. So, I studied computer programming in Korea Software Industry Association.</ul>
-<ul> The program highlights included these topics: Java, JS, SQL, JSP, ajax, Spring Framwork, jQuery, Bootstrap4. I have a project experience using these languages, tools, framework. I am going to study Programming harder. I will do it my best. 😎👍🏻 </ul>
+<ul> The program highlights included these topics: Java, JS, SQL, JSP, ajax, Spring Framwork, jQuery, Bootstrap4, JPA. I have project experiences using these languages, tools, framework. I am going to study Programming harder. I will do it my best. 😎👍🏻 </ul>
 
 </br>
 
