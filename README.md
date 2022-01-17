@@ -20,8 +20,9 @@
 </br>
 
 <ul> After completing a B.A. degree from Yeungnam University, I enrolled in International Development program. Also, I doubled major in Food Service Industry program.</ul>
-<ul> Even though my major wasn't Computer Engineering, I am interested in programming very much. So, I studied computer programming in Korea Software Industry Association.</ul>
-<ul> The program highlights included these topics: Java, JS, SQL, JSP, ajax, Spring Framwork, jQuery, Bootstrap4, JPA. I have project experiences using these languages, tools, framework. I am going to study Programming harder. I will do it my best. 😎👍🏻 </ul>
+<ul> when I was a senior in university, I was interested in programming. So, I studied computer programming in Korea Software Industry Association after graduating from the university. </ul>
+<ul> The program highlights included these topics: Java, JS, SQL, JSP, ajax, Spring Framwork, jQuery, Bootstrap4, JPA. I have project experiences using these languages, tools, framework.</ul>
+<ul>Currently, I am studying for a Computer Science at Korea National Open University. I am going to study Programming harder. I will do it my best. 😎👍🏻 </ul>
 
 </br>
 
@@ -33,6 +34,7 @@
 
 Type | Date | Contents | Organization |
 |---|---|---|---|
+| Bachelor Degree | Aug, 2021 ~ Aug, 2023 |Computer Science | Korea National Open University |
 | Software Education | Sep, 2020 ~ Dec | Java Development Education | Korea Software Industry Association|
 | Bachelor Degree | Mar, 2014 ~ Aug, 2019 | International Development & Department of Food Service Industry  | Yeungnam University |
 | Language Education | Jul, 2018 ~ Aug | Gaduation Level of English Classes : Advanced | HANSA Language Centre in Toronto, Canada|
