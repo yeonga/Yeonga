@@ -6,10 +6,43 @@
 
 </br>
 
-💻 **Programming Languages & Skills **
+📚 Frameworks, Platforms and Libraries
+&nbsp;&nbsp;&nbsp;&nbsp;  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![JAVA](https://img.shields.io/badge/JAVA-007396?style=plastic&logo=Java&logoColor=wjite&color=CD1039) ![JavaScript](https://img.shields.io/badge/JavaScript-007396?style=plastic&logo=JavaScript&logoColor=default&color=red) ![HTML5](https://img.shields.io/badge/HTML5-007396?style=plastic&logo=HTML5&logoColor=default&color=FF8200) ![CSS3](https://img.shields.io/badge/CSS3-007396?style=plastic&logo=css3&logoColor=&color=0064CD) ![SQL](https://img.shields.io/badge/SQL-007396?style=plastic&logo=Mysql&logoColor=00008C&color=288CFF)
+</br>
+
+🎈 Hosting/SaaS
+&nbsp;&nbsp;&nbsp;&nbsp; ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+
+</br>
+
+💻 IDEs/Editors
+&nbsp;&nbsp;&nbsp;&nbsp; ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+
+</br>
+
+📋 Programming Languages & Skills 
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JPA](https://img.shields.io/badge/JPA-00000?style=plastic&logo=JPA&logoColor=white)
+
+</br>
+
+💾 Databases
+&nbsp;&nbsp;&nbsp;&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</br>
+
+💻 ** Servers **
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+</br>
+
+</br>
+
+💻 ** Version Control **
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </br>
 
