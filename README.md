@@ -6,17 +6,17 @@
 
 </br>
 
-📚 Frameworks, Platforms and Libraries
+📚 Frameworks, Platforms and Libraries </br>
 &nbsp;&nbsp;&nbsp;&nbsp;  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=skyblue)
 
 </br>
 
-🎈 Hosting/SaaS
+🎈 Hosting/SaaS </br>
 &nbsp;&nbsp;&nbsp;&nbsp; ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 
 </br>
 
-💻 IDEs/Editors
+💻 IDEs/Editors </br>
 &nbsp;&nbsp;&nbsp;&nbsp; ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 </br>
@@ -24,12 +24,12 @@
 📋 Programming Languages & Skills 
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JPA](https://img.shields.io/badge/JPA-00000?style=plastic&logo=JPA&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-00000?style=for-the-badge&logo=JPA&logoColor=white)
 
 </br>
 
-💾 Databases
-&nbsp;&nbsp;&nbsp;&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+💾 Databases </br>
+&nbsp;&nbsp;&nbsp;&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 </br>
 
@@ -49,7 +49,7 @@
 👧🏻 **Introduce myself**
 
 <ul>Hello, My Korean name is Yeong-A and English name is Aria. You can call me whatever you want.</ul>
-<ul>I have a desire to be the best Web Developer. 👩🏻‍💻✨</ul>
+<ul>I have a desire to be the best Back-End Developer. 👩🏻‍💻✨</ul>
 </br>
 
 <ul> After completing a B.A. degree from Yeungnam University, I enrolled in International Development program. Also, I doubled major in Food Service Industry program.</ul>
